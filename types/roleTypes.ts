@@ -1,1 +1,0 @@
-export type roleTypes = "Admin" | "User" | "Modo";
